@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test Desc</description>
+   <name>Test3_ScriptMode_CustomKeyword</name>
+   <tag>@smoke</tag>
+   <comment></comment>
+   <testCaseGuid>01d9fd54-109c-4f7d-9c7a-1db23eedf6f2</testCaseGuid>
+</TestCaseEntity>

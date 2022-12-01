@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Desc</description>
+   <name>CustomeKeywordDemo</name>
+   <tag>@keywordTest</tag>
+   <comment></comment>
+   <testCaseGuid>7ecfdb59-9786-4f67-b4f8-9fdc3a539987</testCaseGuid>
+</TestCaseEntity>

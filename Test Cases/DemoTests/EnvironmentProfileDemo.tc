@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Desc</description>
+   <name>EnvironmentProfileDemo</name>
+   <tag>@envprofile</tag>
+   <comment></comment>
+   <testCaseGuid>364a9064-ca2b-46d1-8e70-64f351f757b1</testCaseGuid>
+</TestCaseEntity>
